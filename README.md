@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaoutar LAMHAMDI</h1>
-<h3 align="center">A passionate engineer in **Telecommunications and Network Engineering** who’s diving deep into **Cybersecurity** 🛡️ and **DevOps** 🚀..</h3>
+<h3 align="center">A passionate engineer in **Telecommunications and Network Engineering** who’s diving deep into **Cybersecurity** 🛡️ and **DevOps** 🚀.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaoutar-lm&label=Profile%20views&color=0e75b6&style=flat" alt="kaoutar-lm" /> </p>
 
