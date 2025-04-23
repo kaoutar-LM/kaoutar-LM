@@ -1,14 +1,14 @@
-<h1 align="center">👋 Welcome to my profile / Bienvenue !</h1>
+<h1 align="center">👋 Welcome to my profile / Bienvenue sur mon profil !</h1>
 
 <p align="center">
-🎓 I'm <strong>Belhadi</strong>, a Telecommunications & Network Engineering graduate, passionate about <strong>Cybersecurity</strong> 🛡️ and <strong>DevOps</strong> 🚀  
+🎓 I'm <strong>Kaoutar Lamhamdi</strong>, a Telecommunications & Network Engineering graduate, passionate about <strong>Cybersecurity</strong> 🛡️ and <strong>DevOps</strong> 🚀  
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/belhadi">
-    <img src="https://img.shields.io/badge/LinkedIn-Belhadi-blue?style=for-the-badge&logo=linkedin">
+  <a href="https://linkedin.com/in/kaoutar-lamhamdi">
+    <img src="https://img.shields.io/badge/LinkedIn-Kaoutar%20Lamhamdi-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:belhadi@example.com">
+  <a href="mailto:kaoutarlamhamdi1@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20me-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
@@ -17,9 +17,9 @@
 
 ## 🌍 About Me / À propos de moi
 
-- 🔐 Currently exploring the world of **Cybersecurity** (SOC, SIEM, Vulnerability Management...)
-- ⚙️ Interested in **DevOps practices**: automation, CI/CD, monitoring, cloud
-- 🧠 Lifelong learner, always up for new challenges
+- 🔐 Exploring **Cybersecurity**: SOC, SIEM, Vulnerability Management, Network Defense
+- ⚙️ Learning **DevOps** practices: CI/CD, automation, Docker & cloud tools
+- 🧠 Curious and committed to continuous learning
 - 💬 Languages: English 🇬🇧 | French 🇫🇷 | Arabic 🇲🇦
 
 ---
@@ -41,23 +41,28 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=belhadi&show_icons=true&theme=radical" alt="Belhadi's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belhadi&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+## 🌱 Currently Learning / En ce moment je me forme à :
+- 🔍 Threat Hunting & Incident Response  
+- ☁️ DevOps pipelines & monitoring tools  
+- 🧪 Ethical hacking basics  
 
 ---
 
-## 🌱 Currently Learning
+## 📫 Contact Me
+- 📧 **Email**: kaoutarlamhamdi1@gmail.com  
+- 💼 **LinkedIn**: [linkedin.com/in/kaoutar-lamhamdi](https://linkedin.com/in/kaoutar-lamhamdi)
 
-- 🔍 Threat Hunting & Incident Response  
-- ☁️ Advanced DevOps workflows  
-- 🧪 Pentesting basics  
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaoutarlamhamdi&show_icons=true&theme=radical" alt="Kaoutar's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaoutarlamhamdi&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
