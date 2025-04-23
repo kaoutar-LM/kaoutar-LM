@@ -1,20 +1,66 @@
-<h1 align="center">Hi 👋, I'm Kaoutar LAMHAMDI</h1>
-<h3 align="center">A passionate engineer in **Telecommunications and Network Engineering** who’s diving deep into **Cybersecurity** 🛡️ and **DevOps** 🚀.</h3>
+<h1 align="center">👋 Welcome to my profile / Bienvenue !</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaoutar-lm&label=Profile%20views&color=0e75b6&style=flat" alt="kaoutar-lm" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaoutar-lm" alt="kaoutar-lm" /></a> </p>
-
-- 📫 How to reach me **kaoutarlamhamdi1@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kaoutar lamhamdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaoutar lamhamdi" height="30" width="40" /></a>
+<p align="center">
+🎓 I'm <strong>Belhadi</strong>, a Telecommunications & Network Engineering graduate, passionate about <strong>Cybersecurity</strong> 🛡️ and <strong>DevOps</strong> 🚀  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/belhadi">
+    <img src="https://img.shields.io/badge/LinkedIn-Belhadi-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:belhadi@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaoutar-lm&show_icons=true&locale=en&layout=compact" alt="kaoutar-lm" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaoutar-lm&show_icons=true&locale=en" alt="kaoutar-lm" /></p>
+## 🌍 About Me / À propos de moi
+
+- 🔐 Currently exploring the world of **Cybersecurity** (SOC, SIEM, Vulnerability Management...)
+- ⚙️ Interested in **DevOps practices**: automation, CI/CD, monitoring, cloud
+- 🧠 Lifelong learner, always up for new challenges
+- 💬 Languages: English 🇬🇧 | French 🇫🇷 | Arabic 🇲🇦
+
+---
+
+## 🛠️ Tech Stack
+
+### 🛡️ Cybersecurity
+![Linux](https://img.shields.io/badge/-Linux-772953?style=flat&logo=linux&logoColor=white)
+![SIEM](https://img.shields.io/badge/-SIEM-005571?style=flat&logo=elastic&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+### ⚙️ DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=belhadi&show_icons=true&theme=radical" alt="Belhadi's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belhadi&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- 🔍 Threat Hunting & Incident Response  
+- ☁️ Advanced DevOps workflows  
+- 🧪 Pentesting basics  
+
+---
+
+## 💬 Quote of the Day
+
+> “Security is not a product, but a process.” – Bruce Schneier
