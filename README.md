@@ -56,13 +56,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaoutarlamhamdi&show_icons=true&theme=radical" alt="Kaoutar's GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaoutarlamhamdi&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
