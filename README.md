@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome to my profile / Bienvenue sur mon profil !</h1>
 
 <p align="center">
-🎓 I'm <strong>Kaoutar Lamhamdi</strong>, a Telecommunications & Network Engineering graduate, passionate about <strong>Cybersecurity</strong> 🛡️ and <strong>DevOps</strong> 🚀  
+🎓 I'm <strong>Kaoutar Lamhamdi</strong>, a Telecommunications & Network Engineering graduate, passionate about <strong>Cybersecurity</strong> 🛡️ and <strong>DevOps.</strong> 🚀  
 </p>
 
 <p align="center">
